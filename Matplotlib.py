@@ -1,0 +1,1 @@
+print([ele for ele in range(10)])
